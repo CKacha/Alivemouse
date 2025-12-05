@@ -10,3 +10,5 @@ Mouse shell based on Bambulabs's mouse kit!
 ## Bill of Materials (BOM)
 
 A detailed BOM is provided in [`bom.csv`](bom.csv).
+
+![BOM preview](BOM.png)
